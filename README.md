@@ -1,5 +1,8 @@
-# MarioGAN
+# MarioGAN Playable
 
+This branch was made to preserve an initial state in which we've fixed things so that the user can play Mario.
+
+## Original ReadMe
 This project allows for the unsupervised learning of a Generative Adversarial Network (GAN) that
 understands the structure of Super Mario Bros. levels. The model is trained on actual Mario levels from
 the [Video Game Level Corpus](https://github.com/TheVGLC/TheVGLC). The trained model is capable of generating
